@@ -1,5 +1,5 @@
 import React from "react";
-import bag from "/images/Screenshot from 2025-07-05 11-12-57.png";
+import bag from "/Screenshot from 2025-07-05 11-12-57.png";
 import { AiOutlineStar, AiFillStar } from "react-icons/ai";
 
 const CartView = () => {
