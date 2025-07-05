@@ -3,6 +3,7 @@ import CartView from "./Pages/CartView"
 import ShoppingCart from "./Pages/ShoppingCart"
 import Home from "./Pages/Home"
 import PageLayout from "./Components/Layout/PageLayout"
+import PaymentModal from "./Components/PaymentModal"
 
 function App() {
   return (
