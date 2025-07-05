@@ -1,5 +1,5 @@
 import React from "react";
-import bag from "/white-tote-bag.avif";
+import bag from "/White_bag.avif";
 import { AiOutlineStar, AiFillStar } from "react-icons/ai";
 
 const CartView = () => {
